@@ -23,7 +23,7 @@
 
 #### Additional projects
 ------
-* [ ] Todo App
+* [x] Todo App
 * [ ] Music Player App
 * [ ] travel log App
 * [ ] admin dashboard
