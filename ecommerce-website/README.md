@@ -1,5 +1,17 @@
 ### Ideas to implement
 -----
+
+#### admin dashboard
+-----
+- [ ] crud operations on users
+- [ ] crud operations on products
+- [ ] filters to see particulars
+  - [ ] of products by date
+  - [ ] of products by ratings
+  - [ ] of products by price
+  - [ ] of products by brand
+  - [ ] of users by email id or username 
+
 #### home page
 -----
 - [ ] load all products and save in context
@@ -29,3 +41,10 @@
 #### cart page
 -----
 - [ ] implement the design [link](https://www.figma.com/file/vQHJf1zL1p8SPRYtjnCQyX/checkout-page)
+
+
+### Backend 
+-----
+- [ ] database design
+- [ ] routing design
+- [ ] user authentication
