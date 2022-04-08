@@ -24,7 +24,6 @@
 #### Additional projects
 ------
 * [x] Todo App
-* [ ] Music Player App
 * [ ] travel log App
 * [ ] admin dashboard
 * [ ] weather pointer app (point out a location on map and it will tell details about weather and its history or some events!)
