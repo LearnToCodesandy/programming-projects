@@ -1,6 +1,9 @@
 ### Ideas to implement
 -----
 
+### apis to use
+----
+- [x] random user api
 #### admin dashboard
 -----
 - [ ] crud operations on users
